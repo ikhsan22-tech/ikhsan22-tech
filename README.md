@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ikhsan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ikhsan</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
 
 - 📫 How to reach me **ikhsan.lsm23@gmail.com**
