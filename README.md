@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ikhsan.lsm23@gmail.com**
 
-- ⚡ Fun fact **I Am New University Politeknik Lhokseumawe**
+- ⚡ Fun fact **I Am a New Student on University Politeknik Lhokseumawe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
